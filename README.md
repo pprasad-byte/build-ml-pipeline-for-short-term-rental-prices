@@ -592,3 +592,13 @@ Please, make sure all steps are using **the same** python version and that you h
 ## License
 
 [License](LICENSE.txt)
+
+
+## Udacity Reference 
+WandB project - I was not able to make the wandb project public. It loks like i need a paid account for that. So i created a report and made it public, see link below
+[[https://api.wandb.ai/links/prasanna-v-prasad-personal/lx3mkflf]]
+
+
+My github forked code is at [[https://github.com/pprasad-byte/build-ml-pipeline-for-short-term-rental-prices]]
+
+
